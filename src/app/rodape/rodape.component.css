@@ -1,28 +1,28 @@
-ul.social-network {
+ul.social-network{
     list-style: none;
     padding: 0;
 }
 
-ul.social-network li {
+ul.social-network li{
     display: inline;
     margin: 0;
     padding: 5px;
 }
 
-.fa {
+.fa{
     font-size: 35pt;
     color: white;
     padding: 10px;
 }
 
-.fa-instagram:hover {
-    color: #9b3f7c;
+.fa-facebook-square:hover{
+    color: #3b5998;
 }
 
-.fa-github:hover {
+.fa-github-square:hover{
     color: black;
 }
 
-.fa-linkedin:hover {
-    color: #0e76a8;
+.fa-linkedin-square:hover{
+    color: #0072b1;
 }
